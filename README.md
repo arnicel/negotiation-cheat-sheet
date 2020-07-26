@@ -208,6 +208,7 @@ risk seeking (if negative frame).
 5. **Availability**: we are influenced by information that is most easily available. 
 6. **Escalation**: the most successful negotiators look at negotiations from the perspective of the other side.
 7. **Reciprocation**: we feel the need to replay what someone has given us.  
+8. **Contrast Principle**: one thing seems better put next to something bad.
 
 ## Close: Create Contract
 
