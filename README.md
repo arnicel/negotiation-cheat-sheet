@@ -239,6 +239,7 @@ happens.
 ### 3.3 Key elements in creating contracts
 
 1. Is there an agreement? 
+ - When there is an agreement, there is a contracts
  - If you make a counter offer then the initial offer is invalidated.
  - **Framework agreement** is an agreement between two parties that recognizes that the parties have not come to a 
  final agreement on all matters relevant to the relationship between them, but have come to agreement on enough matters 
